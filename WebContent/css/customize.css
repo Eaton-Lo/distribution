@@ -1,0 +1,10 @@
+#customize {
+	
+	background-color : #dbffe8;
+}
+.main-button {
+	padding: 10px 16px;
+  font-size: 23px;
+  line-height: 1.5;
+  border-radius: 6px;
+}
