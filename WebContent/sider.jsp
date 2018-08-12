@@ -25,7 +25,7 @@
 					<li class="nav-item"><a class="nav-link" href="#"> <span
 							data-feather="truck"></span> Distribution
 					</a></li>
-					<li class="nav-item"><a class="nav-link" href="#"> <span
+					<li class="nav-item"><a class="nav-link" href="settlement.jsp"> <span
 							data-feather="layers"></span> Settlement
 					</a></li>
 				</ul>
