@@ -51,6 +51,7 @@ a:hover {
 	<div
 		class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
 		<h1 class="h2">Demand</h1>
+		<hr/>
 		<button class="btn btn-outline-secondary btn-sm dropdown-toggle"
 			type="button" data-toggle="dropdown" aria-haspopup="true"
 			aria-expanded="false">Month</button>
@@ -74,6 +75,7 @@ a:hover {
 				</span>
 			</div>
 		</div>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<div class="btn-toolbar mb-2 mb-md-0">
 			<button type="button" class="btn btn-outline-primary">Add</button>
 			&nbsp;&nbsp;
@@ -93,7 +95,7 @@ a:hover {
 			</div>
 		</div>
 	</div>
-	<div class="d">
+	<div class="collapsible">
 		<h3>Dairy Products</h3>
 		<div>
 			<table class="table table-striped table-sm">
@@ -122,25 +124,20 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					<tr>
-						<th>#</th>
-						<th>Name</th>
-						<th>Address</th>
-						<th>City</th>
-						<th>State</th>
-						<th>Zip Code</th>
-						<th>Phone</th>
-					</tr>
+					
 				</thead>
 				<tbody>
 					<tr>
-						<td>1</td>
-						<td>Combined Jewish Philanthropies</td>
-						<td>126 High Street</td>
-						<td>Boston</td>
-						<td>MA</td>
-						<td>02110</td>
-						<td>617-654-1225</td>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Yogurt</td>
+						<td>1435 Count</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -151,25 +148,20 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					<tr>
-						<th>#</th>
-						<th>Name</th>
-						<th>Address</th>
-						<th>City</th>
-						<th>State</th>
-						<th>Zip Code</th>
-						<th>Phone</th>
-					</tr>
+					
 				</thead>
 				<tbody>
 					<tr>
-						<td>1</td>
-						<td>Combined Jewish Philanthropies</td>
-						<td>126 High Street</td>
-						<td>Boston</td>
-						<td>MA</td>
-						<td>02110</td>
-						<td>617-654-1225</td>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Yogurt</td>
+						<td>1435 Count</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -180,25 +172,20 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					<tr>
-						<th>#</th>
-						<th>Name</th>
-						<th>Address</th>
-						<th>City</th>
-						<th>State</th>
-						<th>Zip Code</th>
-						<th>Phone</th>
-					</tr>
+					
 				</thead>
 				<tbody>
 					<tr>
-						<td>1</td>
-						<td>Combined Jewish Philanthropies</td>
-						<td>126 High Street</td>
-						<td>Boston</td>
-						<td>MA</td>
-						<td>02110</td>
-						<td>617-654-1225</td>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Yogurt</td>
+						<td>1435 Count</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -209,25 +196,20 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					<tr>
-						<th>#</th>
-						<th>Name</th>
-						<th>Address</th>
-						<th>City</th>
-						<th>State</th>
-						<th>Zip Code</th>
-						<th>Phone</th>
-					</tr>
+					
 				</thead>
 				<tbody>
 					<tr>
-						<td>1</td>
-						<td>Combined Jewish Philanthropies</td>
-						<td>126 High Street</td>
-						<td>Boston</td>
-						<td>MA</td>
-						<td>02110</td>
-						<td>617-654-1225</td>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Yogurt</td>
+						<td>1435 Count</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -238,25 +220,20 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					<tr>
-						<th>#</th>
-						<th>Name</th>
-						<th>Address</th>
-						<th>City</th>
-						<th>State</th>
-						<th>Zip Code</th>
-						<th>Phone</th>
-					</tr>
+					
 				</thead>
 				<tbody>
 					<tr>
-						<td>1</td>
-						<td>Combined Jewish Philanthropies</td>
-						<td>126 High Street</td>
-						<td>Boston</td>
-						<td>MA</td>
-						<td>02110</td>
-						<td>617-654-1225</td>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Yogurt</td>
+						<td>1435 Count</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -267,25 +244,20 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					<tr>
-						<th>#</th>
-						<th>Name</th>
-						<th>Address</th>
-						<th>City</th>
-						<th>State</th>
-						<th>Zip Code</th>
-						<th>Phone</th>
-					</tr>
+					
 				</thead>
 				<tbody>
 					<tr>
-						<td>1</td>
-						<td>Combined Jewish Philanthropies</td>
-						<td>126 High Street</td>
-						<td>Boston</td>
-						<td>MA</td>
-						<td>02110</td>
-						<td>617-654-1225</td>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Yogurt</td>
+						<td>1435 Count</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -309,14 +281,14 @@ a:hover {
 					<table class="table table-striped table-sm">
 						<thead>
 							<tr>
-								<th>#</th>
-								<th>Name</th>
+								<th>Pantry Name</th>
+								<th>Quantity</th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
-								<td>1</td>
-								<td>Combined Jewish Philanthropies</td>
+								<td></td>
+								<td>23</td>
 							</tr>
 						</tbody>
 					</table>
