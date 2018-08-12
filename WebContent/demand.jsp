@@ -23,15 +23,7 @@
 	<div
 		class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
 		<h1 class="h2">Demand</h1>
-		<div class="btn-toolbar mb-2 mb-md-0">
-			<button type="button" class="btn btn-outline-primary">Add
-				New</button>
-			&nbsp;&nbsp;
-			<button type="button" class="btn btn-outline-warning">Modify</button>
-			&nbsp;&nbsp;
-			<button type="button" class="btn btn-outline-danger">Delete</button>
-			&nbsp;&nbsp;
-			<button class="btn btn-outline-secondary btn-sm dropdown-toggle"
+		<button class="btn btn-outline-secondary btn-sm dropdown-toggle"
 				type="button" data-toggle="dropdown" aria-haspopup="true"
 				aria-expanded="false">Month</button>
 			<div class="dropdown-menu">
@@ -44,7 +36,20 @@
 					class="dropdown-item" href="#">10</a> <a class="dropdown-item"
 					href="#">11</a> <a class="dropdown-item" href="#">12</a>
 			</div>
+		<div class="form-group mx-sm-2 mb-0">	
+		<input type="text"/>
+		</div>
+		<button class="btn btn-outline-info btn-sm"
+				type="button" >Search</button>
+		<div class="btn-toolbar mb-2 mb-md-0">
+			<button type="button" class="btn btn-outline-primary">Add
+			 </button>
 			&nbsp;&nbsp;
+			<button type="button" class="btn btn-outline-warning">Modify</button>
+			&nbsp;&nbsp;
+			<button type="button" class="btn btn-outline-danger">Delete</button>
+			&nbsp;&nbsp;
+			
 			<button class="btn btn-outline-secondary btn-sm dropdown-toggle"
 				type="button" data-toggle="dropdown" aria-haspopup="true"
 				aria-expanded="false">Sort By</button>
@@ -57,7 +62,27 @@
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3>Table 1</h3>
+		<h3>Dairy Products</h3>
+		<div>
+			<table class="table table-striped table-sm">
+				<thead>
+					
+				</thead>
+				<tbody>
+					<tr>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
+						<td>details</td>
+					</tr>
+					<tr>
+						<td>Yogurt</td>
+						<td>1435 Count</td>
+						<td>details</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<h3>Fruits</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -84,7 +109,7 @@
 				</tbody>
 			</table>
 		</div>
-		<h3>Table 2</h3>
+		<h3>Staple Foods</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -111,7 +136,88 @@
 				</tbody>
 			</table>
 		</div>
-		<h3>Table 3</h3>
+		<h3>Meat</h3>
+		<div>
+			<table class="table table-striped table-sm">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Name</th>
+						<th>Address</th>
+						<th>City</th>
+						<th>State</th>
+						<th>Zip Code</th>
+						<th>Phone</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1</td>
+						<td>Combined Jewish Philanthropies</td>
+						<td>126 High Street</td>
+						<td>Boston</td>
+						<td>MA</td>
+						<td>02110</td>
+						<td>617-654-1225</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<h3>Dessert</h3>
+		<div>
+			<table class="table table-striped table-sm">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Name</th>
+						<th>Address</th>
+						<th>City</th>
+						<th>State</th>
+						<th>Zip Code</th>
+						<th>Phone</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1</td>
+						<td>Combined Jewish Philanthropies</td>
+						<td>126 High Street</td>
+						<td>Boston</td>
+						<td>MA</td>
+						<td>02110</td>
+						<td>617-654-1225</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<h3>Vegetables</h3>
+		<div>
+			<table class="table table-striped table-sm">
+				<thead>
+					<tr>
+						<th>#</th>
+						<th>Name</th>
+						<th>Address</th>
+						<th>City</th>
+						<th>State</th>
+						<th>Zip Code</th>
+						<th>Phone</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1</td>
+						<td>Combined Jewish Philanthropies</td>
+						<td>126 High Street</td>
+						<td>Boston</td>
+						<td>MA</td>
+						<td>02110</td>
+						<td>617-654-1225</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+		<h3>Condiments</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
