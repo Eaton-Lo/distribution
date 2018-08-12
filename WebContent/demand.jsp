@@ -61,7 +61,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="collapsible">
+	<div class="d">
 		<h3>Dairy Products</h3>
 		<div>
 			<table class="table table-striped table-sm">
