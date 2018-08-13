@@ -51,7 +51,7 @@ a:hover {
 	<div
 		class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
 		<h1 class="h2">Settlement</h1>
-		<hr/>
+		<hr />
 		<button class="btn btn-outline-secondary btn-sm dropdown-toggle"
 			type="button" data-toggle="dropdown" aria-haspopup="true"
 			aria-expanded="false">Month</button>
@@ -95,14 +95,211 @@ a:hover {
 			</div>
 		</div>
 	</div>
-	
-	<canvas class="my-4 w-100" id="myChart" width="450" height="190"></canvas>
-	<canvas class="my-4 w-100" id="myChart2" width="450" height="190"></canvas>
-	
-	
+
+	<canvas id="myChart" width="450" height="190"></canvas>
+
+	<br/>
+	<br/>
+	<table>
+	<tr><td>Income</td><td>Outcome</td></tr>
+		<tr>
+			<td class="col-3">
+				<div class="table-responsive col-6">
+					<table class="table table-striped table-sm">
+						<thead>
+							<tr>
+								<th>Date</th>
+								<th>Item</th>
+								<th>Income</th>
+								<th>Note</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>1,001</td>
+								<td>Lorem</td>
+								<td>ipsum</td>
+								<td>dolor</td>
+							</tr>
+							<tr>
+								<td>1,002</td>
+								<td>amet</td>
+								<td>consectetur</td>
+								<td>adipiscing</td>
+							</tr>
+							<tr>
+								<td>1,003</td>
+								<td>Integer</td>
+								<td>nec</td>
+								<td>odio</td>
+							</tr>
+							<tr>
+								<td>1,003</td>
+								<td>libero</td>
+								<td>Sed</td>
+								<td>cursus</td>
+							</tr>
+							<tr>
+								<td>1,004</td>
+								<td>dapibus</td>
+								<td>diam</td>
+								<td>Sed</td>
+							</tr>
+							<tr>
+								<td>1,005</td>
+								<td>Nulla</td>
+								<td>quis</td>
+								<td>sem</td>
+							</tr>
+							<tr>
+								<td>1,006</td>
+								<td>nibh</td>
+								<td>elementum</td>
+								<td>imperdiet</td>
+							</tr>
+							<tr>
+								<td>1,007</td>
+								<td>sagittis</td>
+								<td>ipsum</td>
+								<td>Praesent</td>
+							</tr>
+							<tr>
+								<td>1,008</td>
+								<td>Fusce</td>
+								<td>nec</td>
+								<td>tellus</td>
+							</tr>
+							<tr>
+								<td>1,009</td>
+								<td>augue</td>
+								<td>semper</td>
+								<td>porta</td>
+							</tr>
+							<tr>
+								<td>1,010</td>
+								<td>massa</td>
+								<td>Vestibulum</td>
+								<td>lacinia</td>
+							</tr>
+							<tr>
+								<td>1,011</td>
+								<td>eget</td>
+								<td>nulla</td>
+								<td>Class</td>
+							</tr>
+							<tr>
+								<td>1,012</td>
+								<td>taciti</td>
+								<td>sociosqu</td>
+								<td>ad</td>
+							</tr>
+
+						</tbody>
+					</table>
+				</div>
+			</td>
+			
+			<td class="col-6">
+				<div class="table-responsive col-12">
+					<table class="table table-striped table-sm">
+						<thead>
+							<tr>
+								<th>Date</th>
+								<th>Item</th>
+								<th>Outcome</th>
+								<th>Note</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>1,001</td>
+								<td>Lorem</td>
+								<td>ipsum</td>
+								<td>dolor</td>
+							</tr>
+							<tr>
+								<td>1,002</td>
+								<td>amet</td>
+								<td>consectetur</td>
+								<td>adipiscing</td>
+							</tr>
+							<tr>
+								<td>1,003</td>
+								<td>Integer</td>
+								<td>nec</td>
+								<td>odio</td>
+							</tr>
+							<tr>
+								<td>1,003</td>
+								<td>libero</td>
+								<td>Sed</td>
+								<td>cursus</td>
+							</tr>
+							<tr>
+								<td>1,004</td>
+								<td>dapibus</td>
+								<td>diam</td>
+								<td>Sed</td>
+							</tr>
+							<tr>
+								<td>1,005</td>
+								<td>Nulla</td>
+								<td>quis</td>
+								<td>sem</td>
+							</tr>
+							<tr>
+								<td>1,006</td>
+								<td>nibh</td>
+								<td>elementum</td>
+								<td>imperdiet</td>
+							</tr>
+							<tr>
+								<td>1,007</td>
+								<td>sagittis</td>
+								<td>ipsum</td>
+								<td>Praesent</td>
+							</tr>
+							<tr>
+								<td>1,008</td>
+								<td>Fusce</td>
+								<td>nec</td>
+								<td>tellus</td>
+							</tr>
+							<tr>
+								<td>1,009</td>
+								<td>augue</td>
+								<td>semper</td>
+								<td>porta</td>
+							</tr>
+							<tr>
+								<td>1,010</td>
+								<td>massa</td>
+								<td>Vestibulum</td>
+								<td>lacinia</td>
+							</tr>
+							<tr>
+								<td>1,011</td>
+								<td>eget</td>
+								<td>nulla</td>
+								<td>Class</td>
+							</tr>
+							<tr>
+								<td>1,012</td>
+								<td>taciti</td>
+								<td>sociosqu</td>
+								<td>ad</td>
+							</tr>
+
+						</tbody>
+					</table>
+				</div>
+			</td>
+		</tr>
+	</table>
+
 	</main>
 	<jsp:include page="footer.jsp" />
-	
+
 </body>
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/jquery-ui.js"></script>
@@ -123,65 +320,53 @@ a:hover {
 </script>
 
 
-  <!-- Graphs -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
-    <script>
-      var ctx = document.getElementById("myChart");
-      var myChart = new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-          datasets: [{
-            data: [15339, 21345, 18483, 24003, 23489, 24092, 12034],
-            lineTension: 0,
-            backgroundColor: 'transparent',
-            borderColor: '#007bff',
-            borderWidth: 4,
-            pointBackgroundColor: '#007bff'
-          }]
-        },
-        options: {
-          scales: {
-            yAxes: [{
-              ticks: {
-                beginAtZero: false
-              }
-            }]
-          },
-          legend: {
-            display: false,
-          }
-        }
-      });
-    </script>
-    <script>
-      var ctx = document.getElementById("myChart2");
-      var myChart = new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
-          datasets: [{
-            data: [15339, 21345, 18483, 24003, 23489, 24092, 12034],
-            lineTension: 0,
-            backgroundColor: 'transparent',
-            borderColor: '#007bff',
-            borderWidth: 4,
-            pointBackgroundColor: '#007bff'
-          }]
-        },
-        options: {
-          scales: {
-            yAxes: [{
-              ticks: {
-                beginAtZero: false
-              }
-            }]
-          },
-          legend: {
-            display: false,
-          }
-        }
-      });
-    </script>
+<!-- Graphs -->
+<script
+	src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
+<script>
+	var ctx = document.getElementById("myChart");
+	var myChart = new Chart(ctx,
+			{
+				type : 'line',
+				data : {
+					labels : [ "Jan.", "Feb.", "Mar.", "Apr.", "May", "June",
+							"July", "Aug." ],
+					datasets : [
+							{
+								label : 'Income',
+								data : [ 15339, 21345, 18483, 24003, 23489,
+										24092, 12034, 14464 ],
+								lineTension : 0,
+								backgroundColor : 'transparent',
+								borderColor : '#007bff',
+								borderWidth : 4,
+								pointBackgroundColor : '#007bff'
+							},
+							{
+								label : 'Outcome',
+								data : [ 5339, 1345, 8483, 4003, 3489, 4092,
+										2034, 4464 ],
+								lineTension : 0,
+								backgroundColor : 'transparent',
+								borderColor : '#000',
+								borderWidth : 4,
+								pointBackgroundColor : '#007bff'
+							} ]
+				},
+				options : {
+					scales : {
+						yAxes : [ {
+							ticks : {
+								beginAtZero : false
+							}
+						} ]
+					},
+					legend : {
+						display : true,
+					}
+				}
+			});
+</script>
+
 
 </html>

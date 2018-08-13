@@ -128,13 +128,19 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Milk</td>
+						<td>Apple</td>
 						<td>5232 Ounces</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td>Yogurt</td>
+						<td>Mongo</td>
+						<td>1435 Count</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Grape</td>
 						<td>1435 Count</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
