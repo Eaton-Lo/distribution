@@ -40,6 +40,52 @@ a:hover {
 	content: '\f35a ';
 	font-family: "Font Awesome 5 Free";
 }
+
+.steps-form {
+	display: table;
+	width: 100%;
+	position: relative;
+}
+
+.steps-form .steps-row {
+	display: table-row;
+}
+
+.steps-form .steps-row:before {
+	top: 14px;
+	bottom: 0;
+	position: absolute;
+	content: " ";
+	width: 100%;
+	height: 1px;
+	background-color: #ccc;
+}
+
+.steps-form .steps-row .steps-step {
+	display: table-cell;
+	text-align: center;
+	position: relative;
+}
+
+.steps-form .steps-row .steps-step p {
+	margin-top: 0.5rem;
+}
+
+.steps-form .steps-row .steps-step button[disabled] {
+	opacity: 1 !important;
+	filter: alpha(opacity = 100) !important;
+}
+
+.steps-form .steps-row .steps-step .btn-circle {
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	padding: 6px 0;
+	font-size: 12px;
+	line-height: 1.428571429;
+	border-radius: 15px;
+	margin-top: 0;
+}
 </style>
 </head>
 <body>
@@ -50,8 +96,8 @@ a:hover {
 
 	<div
 		class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
-		<h1 class="h2">Demand</h1>
-		<hr/>
+		<h1 class="h2">Distribution</h1>
+		<hr />
 		<button class="btn btn-outline-secondary btn-sm dropdown-toggle"
 			type="button" data-toggle="dropdown" aria-haspopup="true"
 			aria-expanded="false">Month</button>
@@ -106,8 +152,7 @@ a:hover {
 					<tr>
 						<td>Milk</td>
 						<td>5232 Ounces</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						<td></td>
 					</tr>
 					<tr>
 						<td>Yogurt</td>
@@ -124,7 +169,7 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					
+
 				</thead>
 				<tbody>
 					<tr>
@@ -166,7 +211,7 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					
+
 				</thead>
 				<tbody>
 					<tr>
@@ -208,7 +253,7 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					
+
 				</thead>
 				<tbody>
 					<tr>
@@ -238,7 +283,7 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					
+
 				</thead>
 				<tbody>
 					<tr>
@@ -268,7 +313,7 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					
+
 				</thead>
 				<tbody>
 					<tr>
@@ -292,7 +337,7 @@ a:hover {
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
-					
+
 				</thead>
 				<tbody>
 					<tr>
@@ -330,13 +375,65 @@ a:hover {
 						<thead>
 							<tr>
 								<th>Pantry Name</th>
-								<th>Quantity</th>
+								<th>Progress</th>
+								<th></th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
-								<td></td>
-								<td>23</td>
+								<td>Combined Jewish Philanthropies</td>
+								<td>
+									<div class="progress">
+										<div class="progress-bar" role="progressbar"
+											style="width: 25%" aria-valuenow="25" aria-valuemin="0"
+											aria-valuemax="100"></div>
+									</div>
+								</td>
+								<td>Preparing</td>
+							</tr>
+							<tr>
+								<td>Sojourner House</td>
+								<td>
+									<div class="progress">
+										<div class="progress-bar" role="progressbar"
+											style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+											aria-valuemax="100"></div>
+									</div>
+								</td>
+								<td>Delivering</td>
+							</tr>
+							<tr>
+								<td>St Francis House Inc. Pantry</td>
+								<td>
+									<div class="progress">
+										<div class="progress-bar" role="progressbar"
+											style="width: 25%" aria-valuenow="25" aria-valuemin="0"
+											aria-valuemax="100"></div>
+									</div>
+								</td>
+								<td>Preparing</td>
+							</tr>
+							<tr>
+								<td>The Paulist Center</td>
+								<td>
+									<div class="progress">
+										<div class="progress-bar" role="progressbar"
+											style="width: 100%" aria-valuenow="100" aria-valuemin="0"
+											aria-valuemax="100"></div>
+									</div>
+								</td>
+								<td>Completed</td>
+							</tr>
+							<tr>
+								<td>Greater Boston Food Bank</td>
+								<td>
+									<div class="progress">
+										<div class="progress-bar" role="progressbar"
+											style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+											aria-valuemax="100"></div>
+									</div>
+								</td>
+								<td>Delivering</td>
 							</tr>
 						</tbody>
 					</table>
@@ -344,7 +441,6 @@ a:hover {
 				<div class="modal-footer">
 					<button type="button" class="btn btn-secondary"
 						data-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
 				</div>
 			</div>
 		</div>

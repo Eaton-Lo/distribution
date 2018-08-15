@@ -6,27 +6,23 @@
 			<div class="sidebar-sticky">
 				<br />
 				<ul class="nav flex-column">
-					<li class="nav-item"><a class="nav-link active"
-						href="index.jsp"> <span data-feather="home"></span> Main Table<span
-							class="sr-only">(current)</span>
-					</a></li>
 					<li class="nav-item"><a class="nav-link" href="demand.jsp">
 							<span data-feather="users"></span> Demand
 					</a></li>
 
 					<li class="nav-item"><a class="nav-link"
-						href="food_records.jsp"> <span data-feather="bar-chart-2"></span>
+						href="food_donate.jsp"> <span data-feather="bar-chart-2"></span>
 							Food Donate
 					</a></li>
-					
-					<li class="nav-item"><a class="nav-link" href="#"> <span
-							data-feather="clipboard"></span> Matching Results
+					<li class="nav-item"><a class="nav-link"
+						href="money_donate.jsp"> <span data-feather="bar-chart-2"></span>
+							Money Donate
 					</a></li>
-					<li class="nav-item"><a class="nav-link" href="#"> <span
-							data-feather="truck"></span> Distribution
+					<li class="nav-item"><a class="nav-link" href="matching_result.jsp"> <span
+							data-feather="clipboard"></span> Matching Result
 					</a></li>
 					<li class="nav-item"><a class="nav-link" href="settlement.jsp"> <span
-							data-feather="layers"></span> Settlement
+							data-feather="layers"></span> Balance
 					</a></li>
 				</ul>
 
@@ -36,11 +32,8 @@
 
 				</h6>
 				<ul class="nav flex-column mb-2">
-					<li class="nav-item"><a class="nav-link" href="#"> <span
-							data-feather="bar-chart-2"></span> Money Records
-					</a></li>
-					<li class="nav-item"><a class="nav-link" href="#"> <span
-							data-feather="file-text"></span> Food Inventory Record
+					<li class="nav-item"><a class="nav-link" href="food_inventory.jsp"> <span
+							data-feather="file-text"></span> Food Inventory
 					</a></li>
 				</ul>
 				<h6
@@ -53,9 +46,6 @@
 					<li class="nav-item"><a class="nav-link"
 						href="food_pantries.jsp"> <span data-feather="file-text"></span>
 							Food Pantries
-					</a></li>
-					<li class="nav-item"><a class="nav-link" href="#"> <span
-							data-feather="user"></span> Donors
 					</a></li>
 				</ul>
 				<br />

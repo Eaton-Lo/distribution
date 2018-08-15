@@ -50,7 +50,7 @@ a:hover {
 
 	<div
 		class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
-		<h1 class="h2">Demand</h1>
+		<h1 class="h2">Food Donate</h1>
 		<hr/>
 		<button class="btn btn-outline-secondary btn-sm dropdown-toggle"
 			type="button" data-toggle="dropdown" aria-haspopup="true"
@@ -96,7 +96,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3>&nbsp;Dairy Products</h3>
+		<h3> Dairy Products</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -120,7 +120,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3>&nbsp;Fruits</h3>
+		<h3> Fruits</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -128,31 +128,19 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Kiwi</td>
-						<td>5232 lb</td>
+						<td>Apple</td>
+						<td>5232 Ounces</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Mongo</td>
-						<td>2435 Count</td>
+						<td>1435 Count</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Grape</td>
-						<td>9435 lb</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-					<tr>
-						<td>Banana</td>
-						<td>4435 Count</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-					<tr>
-						<td>Peach</td>
 						<td>1435 Count</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
@@ -162,7 +150,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3>&nbsp;Staple</h3>
+		<h3> Staple Foods</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -170,92 +158,14 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Wheat</td>
-						<td>5232 lb</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-					<tr>
-						<td>Oats</td>
-						<td>5127 lb</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-					<tr>
-						<td>Potato</td>
-						<td>2345 lb</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-					<tr>
-						<td>Corn</td>
-						<td>3260 Count</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-					<tr>
-						<td>Soybean</td>
-						<td>3435 lb</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
-	<div class="collapsible">
-		<h3>&nbsp;Meat</h3>
-		<div>
-			<table class="table table-striped table-sm">
-				<thead>
-					
-				</thead>
-				<tbody>
-					<tr>
-						<td>Beef</td>
-						<td>7832 lb</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-					<tr>
-						<td>Pork</td>
-						<td>9039 lb</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-					<tr>
-						<td>Lamb</td>
-						<td>2435 lb</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-				</tbody>
-			</table>
-		</div>
-	</div>
-	<div class="collapsible">
-		<h3>&nbsp;Dessert</h3>
-		<div>
-			<table class="table table-striped table-sm">
-				<thead>
-					
-				</thead>
-				<tbody>
-					<tr>
-						<td>Cookie</td>
+						<td>Milk</td>
 						<td>5232 Ounces</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td>Cake</td>
+						<td>Yogurt</td>
 						<td>1435 Count</td>
-						<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
-					</tr>
-					<tr>
-						<td>Bread</td>
-						<td>7242 Count</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -264,7 +174,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3>&nbsp;Vegetables</h3>
+		<h3> Meat</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -272,13 +182,13 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Carrot</td>
+						<td>Milk</td>
 						<td>5232 Ounces</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td></td>
+						<td>Yogurt</td>
 						<td>1435 Count</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
@@ -288,7 +198,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3>&nbsp;Condiments</h3>
+		<h3> Dessert</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -296,13 +206,61 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Soy Sauce</td>
-						<td>3795 Count</td>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td></td>
+						<td>Yogurt</td>
+						<td>1435 Count</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<div class="collapsible">
+		<h3> Vegetables</h3>
+		<div>
+			<table class="table table-striped table-sm">
+				<thead>
+					
+				</thead>
+				<tbody>
+					<tr>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Yogurt</td>
+						<td>1435 Count</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<div class="collapsible">
+		<h3> Condiments</h3>
+		<div>
+			<table class="table table-striped table-sm">
+				<thead>
+					
+				</thead>
+				<tbody>
+					<tr>
+						<td>Milk</td>
+						<td>5232 Ounces</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Yogurt</td>
 						<td>1435 Count</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>

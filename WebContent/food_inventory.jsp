@@ -50,7 +50,7 @@ a:hover {
 
 	<div
 		class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
-		<h1 class="h2">Demand</h1>
+		<h1 class="h2">Food Inventory</h1>
 		<hr/>
 		<button class="btn btn-outline-secondary btn-sm dropdown-toggle"
 			type="button" data-toggle="dropdown" aria-haspopup="true"
@@ -319,7 +319,7 @@ a:hover {
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+					<h5 class="modal-title" id="exampleModalLabel">Food In/Out Status</h5>
 					<button type="button" class="close" data-dismiss="modal"
 						aria-label="Close">
 						<span aria-hidden="true">&times;</span>
@@ -329,14 +329,31 @@ a:hover {
 					<table class="table table-striped table-sm">
 						<thead>
 							<tr>
-								<th>Pantry Name</th>
+								<th>Date</th>
 								<th>Quantity</th>
+								<th>In/Out</th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
-								<td></td>
+								<td>08/12/2018</td>
 								<td>23</td>
+								<td>In</td>
+							</tr>
+							<tr>
+								<td>08/14/2018</td>
+								<td>2</td>
+								<td>In</td>
+							</tr>
+							<tr>
+								<td>08/14/2018</td>
+								<td>5</td>
+								<td>Out</td>
+							</tr>
+							<tr>
+								<td>08/16/2018</td>
+								<td>10</td>
+								<td>In</td>
 							</tr>
 						</tbody>
 					</table>
@@ -344,7 +361,6 @@ a:hover {
 				<div class="modal-footer">
 					<button type="button" class="btn btn-secondary"
 						data-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
 				</div>
 			</div>
 		</div>
