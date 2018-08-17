@@ -16,7 +16,7 @@
 	href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
 	integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
 	crossorigin="anonymous">
-	
+
 <script>
 	// Send the data using post
 	var posting = $.post("/Distribution/PantryServlet", {
@@ -36,10 +36,10 @@
 
 	<div
 		class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3">
-		<h1 class="h2">Matching Result</h1>
+		<h1 class="h2">&nbsp;&nbsp;&nbsp;Matching Result</h1>
 
 		<div class="btn-toolbar mb-2 mb-md-0">
-			
+
 			<div class="form-group mx-sm-2 mb-0">
 				<div class="input-group">
 					<input type="text" class="form-control" placeholder="Search for...">
@@ -60,7 +60,7 @@
 		</div>
 	</div>
 
-	<div class="table-responsive col-6">
+	<div class="table-responsive col-10">
 		<table class="table table-striped table-sm">
 			<thead>
 				<tr>
@@ -72,83 +72,83 @@
 				<tr>
 					<td>Combined Jewish Philanthropies</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
-				
+
 				<tr>
 					<td>St Francis House Inc. Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>The Paulist Center</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Greater Boston Food Bank</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>St Anthony Shrine/Franciscan Food Center</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Sojourner House</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Salvation Army/South End Food Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Rosie's Place Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>International Institute of Boston Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Haley House Food Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Boston Rescue Mission / Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Western Avenue Baptist Church Food Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Cambridge Senior Center Food Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Brookline Emergency Food Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Food Not Bombs of Boston</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 				<tr>
 					<td>Salvation Army/Mystic Valley Pantry</td>
 					<td><a href="#" data-toggle="modal"
-							data-target="#exampleModal">details</a></td>
+						data-target="#exampleModal">details</a></td>
 				</tr>
 			</tbody>
 		</table>
@@ -163,7 +163,7 @@
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+					<h5 class="modal-title" id="exampleModalLabel">Matching Result Detail</h5>
 					<button type="button" class="close" data-dismiss="modal"
 						aria-label="Close">
 						<span aria-hidden="true">&times;</span>
@@ -173,6 +173,7 @@
 					<table class="table table-striped table-sm">
 						<thead>
 							<tr>
+								<th>Receiver Number</th>
 								<th>Food</th>
 								<th>Quantity</th>
 								<th>Unit</th>
@@ -180,44 +181,70 @@
 						</thead>
 						<tbody>
 							<tr>
+								<td>1413782</td>
 								<td>Banana</td>
 								<td>500</td>
 								<td>lb</td>
 							</tr>
 							<tr>
+								<td>1413782</td>
 								<td>Kiwi</td>
 								<td>120</td>
 								<td>lb</td>
 							</tr>
 							<tr>
+								<td>1413782</td>
 								<td>Pineapple</td>
 								<td>200</td>
 								<td>lb</td>
 							</tr>
 							<tr>
+								<td>1413782</td>
 								<td>Wheat</td>
 								<td>4000</td>
 								<td>lb</td>
 							</tr>
 							<tr>
+								<td>1413782</td>
 								<td>Oat</td>
 								<td>3000</td>
 								<td>lb</td>
 							</tr>
 							<tr>
+								<td>1413782</td>
 								<td>Beef</td>
 								<td>1000</td>
 								<td>lb</td>
 							</tr>
 							<tr>
+								<td>1413782</td>
 								<td>Pork</td>
 								<td>1500</td>
 								<td>lb</td>
 							</tr>
 							<tr>
+								<td>1593853</td>
 								<td>Soy Sauce</td>
 								<td>120</td>
 								<td>counts</td>
+							</tr>
+							<tr>
+								<td>1593853</td>
+								<td>Wheat</td>
+								<td>4000</td>
+								<td>lb</td>
+							</tr>
+							<tr>
+								<td>1593853</td>
+								<td>Oat</td>
+								<td>3000</td>
+								<td>lb</td>
+							</tr>
+							<tr>
+								<td>1593853</td>
+								<td>Beef</td>
+								<td>1000</td>
+								<td>lb</td>
 							</tr>
 						</tbody>
 					</table>

@@ -111,7 +111,7 @@ a:hover {
 					</tr>
 					<tr>
 						<td>Yogurt</td>
-						<td>1435 Count</td>
+						<td>1435 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -129,13 +129,13 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Kiwi</td>
-						<td>5232 lb</td>
+						<td>523 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Mongo</td>
-						<td>2435 Count</td>
+						<td>2435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -147,13 +147,13 @@ a:hover {
 					</tr>
 					<tr>
 						<td>Banana</td>
-						<td>4435 Count</td>
+						<td>4435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Peach</td>
-						<td>1435 Count</td>
+						<td>1435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -189,7 +189,7 @@ a:hover {
 					</tr>
 					<tr>
 						<td>Corn</td>
-						<td>3260 Count</td>
+						<td>3260 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -243,19 +243,19 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Cookie</td>
-						<td>5232 Ounces</td>
+						<td>5232 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Cake</td>
-						<td>1435 Count</td>
+						<td>1435 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Bread</td>
-						<td>7242 Count</td>
+						<td>7242 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -273,13 +273,13 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Carrot</td>
-						<td>5232 Ounces</td>
+						<td>5232 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td></td>
-						<td>1435 Count</td>
+						<td>Celery</td>
+						<td>1435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -297,13 +297,13 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Soy Sauce</td>
-						<td>3795 Count</td>
+						<td>3795 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td></td>
-						<td>1435 Count</td>
+						<td>Black Pepper</td>
+						<td>1435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>

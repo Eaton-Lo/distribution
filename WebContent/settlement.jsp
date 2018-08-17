@@ -115,84 +115,96 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>1,001</td>
-						<td>Lorem</td>
-						<td>ipsum</td>
-						<td>dolor</td>
+						<td>08/01/2018</td>
+						<td>donation</td>
+						<td>3,000</td>
+						<td>donor id: 1422334</td>
 					</tr>
 					<tr>
-						<td>1,002</td>
-						<td>amet</td>
-						<td>consectetur</td>
-						<td>adipiscing</td>
+						<td>08/07/2018</td>
+						<td>donation</td>
+						<td>1,000</td>
+						<td>donor id: 2524034</td>
 					</tr>
 					<tr>
-						<td>1,003</td>
-						<td>Integer</td>
-						<td>nec</td>
-						<td>odio</td>
+						<td>08/10/2018</td>
+						<td>donation</td>
+						<td>1,500</td>
+						<td>anonymous</td>
 					</tr>
 					<tr>
-						<td>1,003</td>
-						<td>libero</td>
-						<td>Sed</td>
-						<td>cursus</td>
+						<td>08/10/2018</td>
+						<td>donation</td>
+						<td>1,200</td>
+						<td>donor id: 1411043</td>
 					</tr>
 					<tr>
-						<td>1,004</td>
-						<td>dapibus</td>
-						<td>diam</td>
-						<td>Sed</td>
+						<td>08/12/2018</td>
+						<td>donation</td>
+						<td>500</td>
+						<td>donor id: 1498824</td>
 					</tr>
 					<tr>
-						<td>1,005</td>
-						<td>Nulla</td>
-						<td>quis</td>
-						<td>sem</td>
+						<td>08/15/2018</td>
+						<td>donation</td>
+						<td>400</td>
+						<td>anonymous</td>
 					</tr>
 					<tr>
-						<td>1,006</td>
-						<td>nibh</td>
-						<td>elementum</td>
-						<td>imperdiet</td>
+						<td>08/19/2018</td>
+						<td>donation</td>
+						<td>2,500</td>
+						<td>donor id: 1477034</td>
 					</tr>
 					<tr>
-						<td>1,007</td>
-						<td>sagittis</td>
-						<td>ipsum</td>
-						<td>Praesent</td>
+						<td>08/22/2018</td>
+						<td>donation</td>
+						<td>100</td>
+						<td>anonymous</td>
 					</tr>
 					<tr>
-						<td>1,008</td>
-						<td>Fusce</td>
-						<td>nec</td>
-						<td>tellus</td>
+						<td>08/25/2018</td>
+						<td>donation</td>
+						<td>150</td>
+						<td>donor id: 1400234</td>
 					</tr>
 					<tr>
-						<td>1,009</td>
-						<td>augue</td>
-						<td>semper</td>
-						<td>porta</td>
+						<td>08/27/2018</td>
+						<td>donation</td>
+						<td>1,400</td>
+						<td>anonymous</td>
 					</tr>
 					<tr>
-						<td>1,010</td>
-						<td>massa</td>
-						<td>Vestibulum</td>
-						<td>lacinia</td>
+						<td>08/30/2018</td>
+						<td>donation</td>
+						<td>4,000</td>
+						<td>donor id: 1465334</td>
 					</tr>
 					<tr>
-						<td>1,011</td>
-						<td>eget</td>
-						<td>nulla</td>
-						<td>Class</td>
+						<td>08/30/2018</td>
+						<td>donation</td>
+						<td>5,000</td>
+						<td>donor id: 4324334</td>
 					</tr>
 					<tr>
-						<td>1,012</td>
-						<td>taciti</td>
-						<td>sociosqu</td>
-						<td>ad</td>
+						<td>08/31/2018</td>
+						<td>donation</td>
+						<td>2,000</td>
+						<td>donor id: 3428934</td>
 					</tr>
 
+				</tbody>
+			</table>
+			
+				<table class="table table-striped table-sm">
+				<thead>
+					<tr>
+						<th>Income Amount</th>
+						<th>$ 15,000</th>
+					</tr>
+				</thead>
+				<tbody>
+				
 				</tbody>
 			</table>
 		</div>
@@ -203,90 +215,78 @@ a:hover {
 					<tr>
 						<th>Date</th>
 						<th>Item</th>
-						<th>Income</th>
+						<th>Outcome</th>
 						<th>Note</th>
 					</tr>
 				</thead>
 				<tbody>
 					<tr>
-						<td>1,001</td>
-						<td>Lorem</td>
-						<td>ipsum</td>
-						<td>dolor</td>
+						<td>08/28/2018</td>
+						<td>food</td>
+						<td>10,000</td>
+						<td>Chicken</td>
 					</tr>
 					<tr>
-						<td>1,002</td>
-						<td>amet</td>
-						<td>consectetur</td>
-						<td>adipiscing</td>
+						<td>08/28/2018</td>
+						<td>food</td>
+						<td>2,000</td>
+						<td>Tomato</td>
 					</tr>
 					<tr>
-						<td>1,003</td>
-						<td>Integer</td>
-						<td>nec</td>
-						<td>odio</td>
+						<td>08/29/2018</td>
+						<td>food</td>
+						<td>14,000</td>
+						<td>Pork</td>
 					</tr>
 					<tr>
-						<td>1,003</td>
-						<td>libero</td>
-						<td>Sed</td>
-						<td>cursus</td>
+						<td>08/29/2018</td>
+						<td>food</td>
+						<td>2,000</td>
+						<td>Potato</td>
 					</tr>
 					<tr>
-						<td>1,004</td>
-						<td>dapibus</td>
-						<td>diam</td>
-						<td>Sed</td>
+						<td>08/29/2018</td>
+						<td>food</td>
+						<td>3,000</td>
+						<td>Apple</td>
 					</tr>
 					<tr>
-						<td>1,005</td>
-						<td>Nulla</td>
-						<td>quis</td>
-						<td>sem</td>
+						<td>08/30/2018</td>
+						<td>food</td>
+						<td>1,500</td>
+						<td>Kiwi</td>
 					</tr>
 					<tr>
-						<td>1,006</td>
-						<td>nibh</td>
-						<td>elementum</td>
-						<td>imperdiet</td>
+						<td>08/30/2018</td>
+						<td>food</td>
+						<td>4,000</td>
+						<td>Wheat</td>
 					</tr>
 					<tr>
-						<td>1,007</td>
-						<td>sagittis</td>
-						<td>ipsum</td>
-						<td>Praesent</td>
+						<td>08/30/2018</td>
+						<td>food</td>
+						<td>20,000</td>
+						<td>Beef</td>
 					</tr>
 					<tr>
-						<td>1,008</td>
-						<td>Fusce</td>
-						<td>nec</td>
-						<td>tellus</td>
+						<td>08/30/2018</td>
+						<td>food</td>
+						<td>1,200</td>
+						<td>Milk</td>
 					</tr>
-					<tr>
-						<td>1,009</td>
-						<td>augue</td>
-						<td>semper</td>
-						<td>porta</td>
-					</tr>
-					<tr>
-						<td>1,010</td>
-						<td>massa</td>
-						<td>Vestibulum</td>
-						<td>lacinia</td>
-					</tr>
-					<tr>
-						<td>1,011</td>
-						<td>eget</td>
-						<td>nulla</td>
-						<td>Class</td>
-					</tr>
-					<tr>
-						<td>1,012</td>
-						<td>taciti</td>
-						<td>sociosqu</td>
-						<td>ad</td>
-					</tr>
+					
 
+				</tbody>
+			</table>
+			<table class="table table-striped table-sm">
+				<thead>
+					<tr>
+						<th>Outcome Amount</th>
+						<th>$ 14,000</th>
+					</tr>
+				</thead>
+				<tbody>
+				
 				</tbody>
 			</table>
 		</div>
@@ -330,7 +330,7 @@ a:hover {
 							{
 								label : 'Income',
 								data : [ 15339, 21345, 18483, 24003, 23489,
-										24092, 12034, 14464 ],
+										24092, 12034, 15464 ],
 								lineTension : 0,
 								backgroundColor : 'transparent',
 								borderColor : '#007bff',
@@ -339,8 +339,8 @@ a:hover {
 							},
 							{
 								label : 'Outcome',
-								data : [ 5339, 1345, 8483, 4003, 3489, 4092,
-										2034, 4464 ],
+								data : [ 14339, 20450, 16483, 21003, 20489, 22092,
+										11034, 14464 ],
 								lineTension : 0,
 								backgroundColor : 'transparent',
 								borderColor : '#000',

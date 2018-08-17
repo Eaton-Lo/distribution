@@ -96,7 +96,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3> Dairy Products</h3>
+		<h3>&nbsp;Dairy Products</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -111,7 +111,7 @@ a:hover {
 					</tr>
 					<tr>
 						<td>Yogurt</td>
-						<td>1435 Count</td>
+						<td>1435 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -120,7 +120,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3> Fruits</h3>
+		<h3>&nbsp;Fruits</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -128,20 +128,32 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Apple</td>
-						<td>5232 Ounces</td>
+						<td>Kiwi</td>
+						<td>523 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Mongo</td>
-						<td>1435 Count</td>
+						<td>2435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Grape</td>
-						<td>1435 Count</td>
+						<td>9435 lb</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Banana</td>
+						<td>4435 lb</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Peach</td>
+						<td>1435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -150,7 +162,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3> Staple Foods</h3>
+		<h3>&nbsp;Staple</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -158,14 +170,32 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Milk</td>
-						<td>5232 Ounces</td>
+						<td>Wheat</td>
+						<td>5232 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td>Yogurt</td>
-						<td>1435 Count</td>
+						<td>Oats</td>
+						<td>5127 lb</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Potato</td>
+						<td>2345 lb</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Corn</td>
+						<td>3260 lb</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Soybean</td>
+						<td>3435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -174,7 +204,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3> Meat</h3>
+		<h3>&nbsp;Meat</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -182,14 +212,20 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Milk</td>
-						<td>5232 Ounces</td>
+						<td>Beef</td>
+						<td>7832 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td>Yogurt</td>
-						<td>1435 Count</td>
+						<td>Pork</td>
+						<td>9039 lb</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Lamb</td>
+						<td>2435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -198,7 +234,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3> Dessert</h3>
+		<h3>&nbsp;Dessert</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -206,14 +242,20 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Milk</td>
-						<td>5232 Ounces</td>
+						<td>Cookie</td>
+						<td>5232 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td>Yogurt</td>
-						<td>1435 Count</td>
+						<td>Cake</td>
+						<td>1435 Counts</td>
+						<td><a href="#" data-toggle="modal"
+							data-target="#exampleModal">details</a></td>
+					</tr>
+					<tr>
+						<td>Bread</td>
+						<td>7242 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -222,7 +264,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3> Vegetables</h3>
+		<h3>&nbsp;Vegetables</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -230,14 +272,14 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Milk</td>
-						<td>5232 Ounces</td>
+						<td>Carrot</td>
+						<td>5232 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td>Yogurt</td>
-						<td>1435 Count</td>
+						<td>Celery</td>
+						<td>1435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -246,7 +288,7 @@ a:hover {
 		</div>
 	</div>
 	<div class="collapsible">
-		<h3> Condiments</h3>
+		<h3>&nbsp;Condiments</h3>
 		<div>
 			<table class="table table-striped table-sm">
 				<thead>
@@ -254,14 +296,14 @@ a:hover {
 				</thead>
 				<tbody>
 					<tr>
-						<td>Milk</td>
-						<td>5232 Ounces</td>
+						<td>Soy Sauce</td>
+						<td>3795 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td>Yogurt</td>
-						<td>1435 Count</td>
+						<td>Black Pepper</td>
+						<td>1435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -271,13 +313,14 @@ a:hover {
 	</div>
 	</main>
 	<jsp:include page="footer.jsp" />
+	
 	<!-- Modal -->
 	<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
 		aria-labelledby="exampleModalLabel" aria-hidden="true">
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 				<div class="modal-header">
-					<h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+					<h5 class="modal-title" id="exampleModalLabel">Food Donate Detail</h5>
 					<button type="button" class="close" data-dismiss="modal"
 						aria-label="Close">
 						<span aria-hidden="true">&times;</span>
@@ -288,13 +331,17 @@ a:hover {
 						<thead>
 							<tr>
 								<th>Pantry Name</th>
+								<th>Food Name</th>
 								<th>Quantity</th>
+								<th>Donor Id</th>
 							</tr>
 						</thead>
 						<tbody>
 							<tr>
 								<td></td>
-								<td>23</td>
+								<td></td>
+								<td></td>
+								<td>1534332</td>
 							</tr>
 						</tbody>
 					</table>
@@ -302,7 +349,6 @@ a:hover {
 				<div class="modal-footer">
 					<button type="button" class="btn btn-secondary"
 						data-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
 				</div>
 			</div>
 		</div>

@@ -105,13 +105,13 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Milk</td>
-						<td>5232 Ounces</td>
+						<td>232 Ounces</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Yogurt</td>
-						<td>1435 Count</td>
+						<td>435 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -129,31 +129,31 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Kiwi</td>
-						<td>5232 lb</td>
+						<td>23 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Mongo</td>
-						<td>2435 Count</td>
+						<td>435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Grape</td>
-						<td>9435 lb</td>
+						<td>435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Banana</td>
-						<td>4435 Count</td>
+						<td>435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Peach</td>
-						<td>1435 Count</td>
+						<td>435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -171,31 +171,31 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Wheat</td>
-						<td>5232 lb</td>
+						<td>232 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Oats</td>
-						<td>5127 lb</td>
+						<td>127 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Potato</td>
-						<td>2345 lb</td>
+						<td>345 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Corn</td>
-						<td>3260 Count</td>
+						<td>260 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Soybean</td>
-						<td>3435 lb</td>
+						<td>435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -213,19 +213,19 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Beef</td>
-						<td>7832 lb</td>
+						<td>832 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Pork</td>
-						<td>9039 lb</td>
+						<td>239 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Lamb</td>
-						<td>2435 lb</td>
+						<td>435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -243,19 +243,19 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Cookie</td>
-						<td>5232 Ounces</td>
+						<td>232 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Cake</td>
-						<td>1435 Count</td>
+						<td>435 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
 						<td>Bread</td>
-						<td>7242 Count</td>
+						<td>242 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -273,13 +273,13 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Carrot</td>
-						<td>5232 Ounces</td>
+						<td>232 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td></td>
-						<td>1435 Count</td>
+						<td>Celery</td>
+						<td>435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -297,13 +297,13 @@ a:hover {
 				<tbody>
 					<tr>
 						<td>Soy Sauce</td>
-						<td>3795 Count</td>
+						<td>795 Counts</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
 					<tr>
-						<td></td>
-						<td>1435 Count</td>
+						<td>Black Pepper</td>
+						<td>435 lb</td>
 						<td><a href="#" data-toggle="modal"
 							data-target="#exampleModal">details</a></td>
 					</tr>
@@ -311,6 +311,7 @@ a:hover {
 			</table>
 		</div>
 	</div>
+	
 	</main>
 	<jsp:include page="footer.jsp" />
 	<!-- Modal -->
